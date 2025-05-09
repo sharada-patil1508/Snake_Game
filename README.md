@@ -57,7 +57,8 @@ Gameplay
 
 
 
-Game Over Screen
+Game Over 
+![image alt](https://github.com/sharada-patil1508/Snake_Game/blob/458b48064527bb58e794adc4fe2685893c18e060/Screenshot%20(186).png)
 
 
 
