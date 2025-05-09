@@ -51,7 +51,7 @@ Eat the food to grow in size.
 
 Avoid going out of the frame to prevent game over.
 
-📸 Screenshots
+![image alt](https://github.com/sharada-patil1508/Snake_Game/blob/eeda5dde5da016f662e6c8560e4903148d7d9f5a/Screenshot%20(185).png)
 
 Gameplay
 
